@@ -1,0 +1,25 @@
+INDEX VERSION 1.129+/Users/e10benga/Desktop/Robotics Directory/My Robot/2017-Programming-Training/.metadata/.plugins/org.eclipse.jdt.core
+3059193231.index
+1271342938.index
+1456874680.index
+3231813101.index
+3329621110.index
+4232048337.index
+646634288.index
+1759049697.index
+2616266660.index
+3051944652.index
+3160523870.index
+3992365684.index
+590046460.index
+449899765.index
+782179996.index
+3986756610.index
+2416100615.index
+129247988.index
+496848936.index
+562105188.index
+1540970505.index
+937763053.index
+2421648630.index
+2883045600.index
